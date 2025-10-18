@@ -5,3 +5,5 @@ This repository offers a curated collection of Data Analytics Projects spanning 
 1. Acrigultural Data Analytics Project
 2. Tata-Data Visualization_Virtual Internship
 3. Deloitte(Australia)-Data Analytics_VirtualInternship
+4. Spotify - SQL Project
+   
